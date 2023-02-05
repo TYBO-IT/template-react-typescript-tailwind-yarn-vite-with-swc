@@ -1,5 +1,5 @@
-# React & TypeScript & Tailwind & Vite (SWC) & Yarn
-Template
+# Template for React & TypeScript & Tailwind & Vite (SWC) & Yarn
+
 
 # Init
 - node -v: 18.14.0
