@@ -1,4 +1,4 @@
-# Template for React & TypeScript & Tailwind & Vite (SWC) & Yarn
+# Template for React & TypeScript & Tailwind & Yarn & Vite (SWC)
 
 
 # Init
