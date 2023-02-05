@@ -1,5 +1,5 @@
 # Template for React & TypeScript & Tailwind & Yarn & Vite (SWC)
-
+![image](https://user-images.githubusercontent.com/11081316/216848977-565af6d2-950b-4086-91e1-f76561c811d0.png)
 
 # Init
 - node -v: 18.14.0
